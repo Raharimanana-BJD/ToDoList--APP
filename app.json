@@ -5,6 +5,11 @@
       "bundler": "metro"
     },
     "name": "app",
-    "slug": "app"
+    "slug": "app",
+    "splash":{
+      "image": "",
+      "resizeMode":"contain",
+      "backgroundColor":"#FEDADA"
+    }
   }
 }
